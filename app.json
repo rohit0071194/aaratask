@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "aaratask",
+    "slug": "aaratask",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "aaratask"
+}
